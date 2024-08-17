@@ -1,8 +1,11 @@
-# React + Vite
+Developer Website Template
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a modern and responsive website template built with React.js and CSS, tailored for developers looking to showcase their portfolios, projects, or web development skills. The template features a clean and customizable layout, making it easy to adapt to different needs. It's perfect for creating professional developer profiles or personal websites.
 
-Currently, two official plugins are available:
+Features:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Responsive design for all devices
+Customizable components and layouts
+Easy-to-use and well-documented code
+Built with React.js and CSS for seamless performance
+Feel free to fork, customize, and use this template for your personal or professional projects! (https://github.com/richie1988/website-template.git)
