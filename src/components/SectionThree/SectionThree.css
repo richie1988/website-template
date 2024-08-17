@@ -1,0 +1,50 @@
+.container-three {
+    width: 100%;
+    height: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px 0;
+    background: #f5f5f5;
+}
+
+.boxthree-cards {
+    display: grid;
+    grid-template-columns: auto;
+    margin: 20px;
+    padding: 5px 10px;
+}
+
+.content-three {
+    width: 280px;
+    height: auto;
+    padding: 0 10px;
+    justify-content: space-between;
+    border: 1px solid red;
+    color: white;
+    background: #969696;
+}
+.boxthree-cards ul {
+    display: block;
+    padding: 5px 10px;
+}
+.boxthree-cards ul p {
+    font-size: 0.9rem;
+}
+
+.boxthree-cards ul li {
+    margin: 20px 10px;
+    list-style: none;
+}
+
+.three-btn {
+    margin: 20px;
+    background: #ffffff;
+    color: #969696;
+}
+
+@media (max-width: 768px){
+    .container-three {
+        flex-direction: column;
+    }
+}
